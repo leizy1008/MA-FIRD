@@ -44,4 +44,12 @@ You can also run the code with your own parameters by the following command:
 If it is helpful for your research, please cite our paper:
 
 ```bibtex
+@article{lei2024memetic,
+  title={A memetic algorithm for vehicle routing with simultaneous pickup and delivery and time windows},
+  author={Lei, Zhenyu and Hao, Jin-Kao},
+  journal={IEEE Transactions on Evolutionary Computation},
+  year={2024},
+  publisher={IEEE}
+}
 ```
+
