@@ -1,6 +1,6 @@
 # A Memetic Algorithm for Vehicle Routing with Simultaneous Pickup and Delivery and Time Windows
 
-This repository is the implementation in C++ for the paper [A memetic algorithm for vehicle routing with simultaneous pickup and delivery and time windows](https://leria-info.univ-angers.fr/%7Ejinkao.hao/papers/Lei-HaoIEEETEVC2024.pdf) by Zhenyu Lei, Jin-Kao Hao.
+This repository is the implementation in C++ for the paper [A memetic algorithm for vehicle routing with simultaneous pickup and delivery and time windows](https://ieeexplore.ieee.org/abstract/document/10669598) by Zhenyu Lei, Jin-Kao Hao.
 
 The Vehicle Routing Problem with Simultaneous Pickup and Delivery and Time Windows (VRPSPDTW) has a number of real-world applications, especially in reverse logistics. In this work, we propose an effective memetic algorithm that integrates a lightweight feasible and infeasible route descent search and a learning-based adaptive route-inheritance crossover to solve this complex problem. We evaluate the effectiveness of the proposed algorithm on the set of 65 popular benchmark instances as well as 20 real-world large-scale benchmark instances. We provide a comprehensive analysis to better understand the design and performance of the proposed algorithm.
 
@@ -52,4 +52,5 @@ If it is helpful for your research, please cite our paper:
   publisher={IEEE}
 }
 ```
+
 
